@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ReplayManagerUpdater/0.0.5": {
+      "ReplayManagerUpdater/0.0.6": {
         "runtime": {
           "ReplayManagerUpdater.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ReplayManagerUpdater/0.0.5": {
+    "ReplayManagerUpdater/0.0.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
